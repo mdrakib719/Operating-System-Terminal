@@ -26,6 +26,7 @@ This project is a lightweight custom shell written in C that simulates basic ter
 ⸻
 
 🚀 Getting Started 
+
 gcc -o my-mini-shell shell.c
 ./my-mini-shell
 
